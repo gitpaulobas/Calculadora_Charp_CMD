@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>custo-mercadorias</id>
+    <version>1.0.0</version>
+    <authors>custo-mercadorias</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias.runtimeconfig.json" target="lib/net6.0/custo-mercadorias.runtimeconfig.json" />
+    <file src="/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias.dll" target="lib/net6.0/custo-mercadorias.dll" />
+  </files>
+</package>

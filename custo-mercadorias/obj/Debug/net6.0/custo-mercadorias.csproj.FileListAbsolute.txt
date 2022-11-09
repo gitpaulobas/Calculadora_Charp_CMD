@@ -1,0 +1,15 @@
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias.deps.json
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias.runtimeconfig.json
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias.dll
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/bin/Debug/net6.0/custo-mercadorias.pdb
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.csproj.AssemblyReference.cache
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.AssemblyInfoInputs.cache
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.AssemblyInfo.cs
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.csproj.CoreCompileInputs.cache
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.dll
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/refint/custo-mercadorias.dll
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.pdb
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/custo-mercadorias.genruntimeconfig.cache
+/Users/paulosoares/Projects/custo-mercadorias/custo-mercadorias/obj/Debug/net6.0/ref/custo-mercadorias.dll
