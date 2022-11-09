@@ -65,6 +65,7 @@ while (sim_ou_nao2 == "n" | sim_ou_nao2 == "N")
             Console.Write("S = Outro item da nota ou N = Nova nota fiscal: ");
             sim_ou_nao = Console.ReadLine();
             Console.Clear();
+            //Teste
         }
 
     }
